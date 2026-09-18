@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" width="100%" height="100%">
+  <rect width="1000" height="500" fill="#ffffff" />
+  <g fill="#848A93">
+    <!-- 1. LEFT OUTER C-FRAME -->
+    <path d="
+      M 436 68
+      L 384 120
+      L 384 102
+      A 34 34 0 0 0 350 68
+      L 350 68
+      A 64 64 0 0 0 286 132
+      L 286 368
+      A 64 64 0 0 0 350 432
+      L 436 432
+      L 452 398
+      L 350 398
+      A 30 30 0 0 1 320 368
+      L 320 132
+      A 30 30 0 0 1 350 102
+      L 364 102
+      Z
+    " />
+
+    <!-- 2. CENTER PILLAR WITH DOWNWARD SPEARHEAD AND TOP ARCH -->
+    <path d="
+      M 462 398
+      L 478 434
+      L 494 398
+      L 494 126
+      A 32 32 0 0 1 526 94
+      L 582 94
+      L 582 62
+      L 526 62
+      A 64 64 0 0 0 462 126
+      Z
+    " />
+
+    <!-- 3. LEFT INNER GEOMETRIC RIBBON / WING -->
+    <path d="
+      M 346 200
+      L 380 166
+      L 432 166
+      L 432 368
+      L 398 368
+      L 346 316
+      Z
+    " />
+
+    <!-- 4. RIGHT OUTER FRAME -->
+    <path d="
+      M 582 62
+      L 650 62
+      A 64 64 0 0 1 714 126
+      L 714 368
+      A 64 64 0 0 1 650 432
+      L 530 432
+      L 546 398
+      L 650 398
+      A 30 30 0 0 0 680 368
+      L 680 126
+      A 30 30 0 0 0 650 96
+      L 582 96
+      Z
+    " />
+
+    <!-- 5. LOWER RIGHT SUPPORT PILLAR -->
+    <path d="
+      M 536 248
+      L 560 224
+      L 578 224
+      L 578 368
+      L 536 368
+      Z
+    " />
+
+    <!-- 6. CCTV CAMERA MOUNT BRACKET -->
+    <polygon points="544,222 558,208 570,220 556,234" />
+
+    <!-- 7. CCTV CAMERA BODY & HOUSING -->
+    <path d="
+      M 524 164
+      L 590 134
+      L 612 152
+      L 612 174
+      L 552 200
+      L 530 192
+      Z
+    " />
+
+    <!-- 8. FRONT LENS FACE -->
+    <g transform="translate(608, 163) rotate(16)">
+      <ellipse cx="0" cy="0" rx="16" ry="24" fill="#848A93" />
+      <ellipse cx="0" cy="0" rx="11" ry="17" fill="#ffffff" />
+      <ellipse cx="0" cy="0" rx="6" ry="9" fill="#848A93" />
+    </g>
+  </g>
+</svg>
