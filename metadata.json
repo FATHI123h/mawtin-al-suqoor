@@ -1,0 +1,6 @@
+{
+  "name": "Mawtin Al Suqoor Tech Solutions",
+  "description": "متجر موطن الصقور - متجر متخصص لأنظمة المراقبة والشبكات، الأجهزة وملحقاتها، وخدمات التركيب والصيانة في الباحة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
